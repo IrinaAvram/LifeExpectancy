@@ -15,11 +15,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 * Install Jupyter using Anaconda
 
-  * First,[download]((https://www.anaconda.com/download/)) Anaconda. We recommend downloading Anaconda’s latest Python 3 version.
+  * First, [download](https://www.anaconda.com/download/) Anaconda. We recommend downloading Anaconda’s latest Python 3 version.
 
   * Second, install the version of Anaconda which you downloaded, following the instructions on the download page.
   
-* Register for a plot.ly[account](https://plot.ly/accounts/login/?action=signup)
+* Register for a plot.ly [account](https://plot.ly/accounts/login/?action=signup)
 
 
 ### Installing
