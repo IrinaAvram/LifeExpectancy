@@ -69,3 +69,4 @@ while the code is released under version 3 of the GNU GENERAL PUBLIC LICENSE.
 * Stadt Wien – data.wien.gv.at - [Demographic indicators in Vienna since 1961](https://www.wien.gv.at/statistik/ogd/vie_005.csv)  (Accessed on 21 March 2018)
 * OECD (2018), Doctors (indicator). doi: 10.1787/4355e1ec-en (Accessed on 21 March 2018)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1209826.svg)](https://doi.org/10.5281/zenodo.1209826)
